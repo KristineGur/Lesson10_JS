@@ -42,7 +42,8 @@ console.log(z) // ბრაუზერში უნდა გამოიტა
 // შეცვალეთ კოდი კომენტარის ქვევით 
 let MyFirstNumber=10;
 let mysecondnumber=10;
-const sum = MyFirstNumber - mysecondnumber;
+let sum;
+sum = MyFirstNumber - mysecondnumber;
 console.log(sum);
 // შეცვალეთ კოდი კომენტარის ზევით
 
